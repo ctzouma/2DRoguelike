@@ -1,0 +1,13 @@
+{
+"companyName": "CostaTz",
+"productName": "2DRoguelike",
+"dataUrl": "2DRoguelike.data.unityweb",
+"asmCodeUrl": "2DRoguelike.asm.code.unityweb",
+"asmMemoryUrl": "2DRoguelike.asm.memory.unityweb",
+"asmFrameworkUrl": "2DRoguelike.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
